@@ -1,0 +1,10 @@
+body{
+    background-color: #353535;
+}
+
+.btn{
+    padding: 5px;    
+    display: flex;
+    justify-content: center;
+}
+
